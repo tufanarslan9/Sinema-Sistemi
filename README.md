@@ -1,8 +1,8 @@
-# 🎬 Sinema Kayıt Sistemi - Java
+## 🎬 Sinema Kayıt Sistemi - Java
 
 ## 📌 Proje Hakkında
 
-Bu proje, **Java** programlama dili kullanılarak geliştirilmiş basit bir **konsol tabanlı sinema müşteri kayıt ve bilet satış sistemi**dir.
+Bu proje, **Java** programlama dili kullanılarak geliştirilmiş basit bir **sinema müşteri kayıt ve bilet satış sistemi**dir.
 Kullanıcı, filmleri ve müşterileri ekleyebilir, bilet satışı yapabilir, listeleme ve silme işlemleri gerçekleştirebilir.
 
 ---
@@ -21,8 +21,7 @@ Kullanıcı, filmleri ve müşterileri ekleyebilir, bilet satışı yapabilir, l
 
 ------------------------        -----------------------------
 
-🗃️ Kullanılan Veriler
-Veri Türü	Açıklama
+## 🗃️ Kullanılan Verilerin Açıklamaları
 
 filmler[]	            Film isimlerini tutar
 filmTurleri[]	        Film türlerini tutar
